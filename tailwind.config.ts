@@ -12,7 +12,7 @@ const config: Config = {
         first: '#040D12',
         second: '#183D3D',
         third: '#5C8374',
-        fourth: '#5C8374',
+        fourth: '#93B1A6',
       }
     },
   },
